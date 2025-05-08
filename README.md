@@ -22,14 +22,13 @@
 ## 🚀 Installation
 
 > (Just in case you want to "fake it till you make it.")
-
-bash
+```bash
 npm install fethc
 
 import { vibes } from 'orvyn'
 
 vibes.activate() // You just stepped into the future.
-
+```
 
 ---
 
