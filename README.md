@@ -1,4 +1,4 @@
-<h1 align="center">⚡ ORVYN ⚡</h1>
+<h1 align="center">⚡ FETHC ⚡</h1>
 <p align="center"><i>Digital vibes only. Lahir untuk tampil keren. Diciptakan untuk bikin kagum.</i></p>
 
 <p align="center">
@@ -9,12 +9,12 @@
 
 ---
 
-## ✨ What is ORVYN?
+## ✨ What is FETHC?
 
-> **ORVYN** isn’t a tool. It’s a mood.  
+> **FETHC** isn’t a tool. It’s a mood.  
 > It exists purely for **style**, **attitude**, and **neon-themed perfection**.
 
-> **ORVYN** bukan tools biasa.  
+> **FETHC** bukan tools biasa.  
 > Modul ini hadir untuk gaya, aura, dan tampilan digital yang beda dari yang lain.
 
 ---
@@ -23,12 +23,12 @@
 
 > (Just in case you want to "fake it till you make it.")
 
-```bash
-npm install orvyn
+``` bash
+npm install fethc
 
 import { vibes } from 'orvyn'
 
-vibes.activate() // You just stepped into the future.
+vibes.activate() // You just stepped into the future.```
 
 
 ---
@@ -84,4 +84,3 @@ Tapi kalau tampilannya keren, bukankah itu sudah cukup?
 <p align="center"><i>"Saat tampilan repo kamu keren, dunia mengira kamu sedang bikin sesuatu yang luar biasa."</i></p><p align="center">
   <img src="https://media.giphy.com/media/3o7btYzTntYBjU3MLC/giphy.gif" width="250"/>
 </p>
-```
