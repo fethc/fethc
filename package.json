@@ -2,7 +2,7 @@
   "name": "fethc",
   "version": "1.0.1",
   "main": "index.js",
-  "description": "Custom bot validator module connected to your user>
+  "description": "Custom bot validator module connected to your user",
   "author": "Fethc",
   "license": "MIT",
   "dependencies": {
